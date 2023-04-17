@@ -1,4 +1,4 @@
-from restaurant.models import Menu, Booking
+from ..models import Menu, Booking
 from django.test import TestCase
 
 class MenuTest(TestCase):
